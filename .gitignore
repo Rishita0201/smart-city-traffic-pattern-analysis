@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Google Colab files
+.ipynb_checkpoints/
+
+# Dataset files (large files)
+dataset/
+
+# Model files
+*.pkl
+*.h5
+*.pt
+
+# Temporary files
+*.csv
